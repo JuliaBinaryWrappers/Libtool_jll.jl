@@ -1,6 +1,6 @@
 name = "Libtool_jll"
 uuid = "a76c16ae-fb8f-5ff0-8826-da3b7a640f0b"
-version = "2.4.7+2"
+version = "2.4.7+3"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
