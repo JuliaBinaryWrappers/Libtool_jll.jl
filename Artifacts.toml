@@ -1,143 +1,143 @@
 [[Libtool]]
 arch = "aarch64"
-git-tree-sha1 = "7c85d2d06e044d9878314d65ac3ed7ebeaa0c638"
+git-tree-sha1 = "baa93e66746fb5f6adb32a4c4297c846b66e9f45"
 os = "macos"
 
     [[Libtool.download]]
-    sha256 = "831c7196e80d10714be34fea8f9d7a961ab8073824230a4ac1bd94cbe5b10344"
-    url = "https://github.com/JuliaBinaryWrappers/Libtool_jll.jl/releases/download/Libtool-v2.4.7+3/Libtool.v2.4.7.aarch64-apple-darwin.tar.gz"
+    sha256 = "ae9fbd7317e70c68299b8f34083e6e64f25ffdd62f6881b60e95e24220fdc3ba"
+    url = "https://github.com/JuliaBinaryWrappers/Libtool_jll.jl/releases/download/Libtool-v2.4.7+4/Libtool.v2.4.7.aarch64-apple-darwin.tar.gz"
 [[Libtool]]
 arch = "aarch64"
-git-tree-sha1 = "247de3d065fd849366a46fb83a4652f346a884e1"
+git-tree-sha1 = "a5c4d34d28f9e433cb316550931deb51246a0d3c"
 libc = "glibc"
 os = "linux"
 
     [[Libtool.download]]
-    sha256 = "a0ae3d27d9f89b9f5a3e174d02bf890e7452708ae2669004b9937a9b8eddbe89"
-    url = "https://github.com/JuliaBinaryWrappers/Libtool_jll.jl/releases/download/Libtool-v2.4.7+3/Libtool.v2.4.7.aarch64-linux-gnu.tar.gz"
+    sha256 = "19c1c6140f401fce0d501f9401641340a80e4d000d8194066b1f17d84f99da39"
+    url = "https://github.com/JuliaBinaryWrappers/Libtool_jll.jl/releases/download/Libtool-v2.4.7+4/Libtool.v2.4.7.aarch64-linux-gnu.tar.gz"
 [[Libtool]]
 arch = "aarch64"
-git-tree-sha1 = "758d797b5b94aba6757a512ff56951ad900f4423"
+git-tree-sha1 = "f31dd6b8d2f6b47a78558753923a58dd70363e0f"
 libc = "musl"
 os = "linux"
 
     [[Libtool.download]]
-    sha256 = "06df9d2af0b467f7ad1a7a336d1c815769472f41e2a739ae633a8a4924be6a44"
-    url = "https://github.com/JuliaBinaryWrappers/Libtool_jll.jl/releases/download/Libtool-v2.4.7+3/Libtool.v2.4.7.aarch64-linux-musl.tar.gz"
+    sha256 = "0dbaa24063ba781d60cf79492c089bc96774f37702772e810d183fdf32d76b7d"
+    url = "https://github.com/JuliaBinaryWrappers/Libtool_jll.jl/releases/download/Libtool-v2.4.7+4/Libtool.v2.4.7.aarch64-linux-musl.tar.gz"
 [[Libtool]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "d70ab2a47a2351f058b8afbfdb9dd92cfc2a208e"
+git-tree-sha1 = "97dac79cc862532bcde254246b73b0371524dea6"
 libc = "glibc"
 os = "linux"
 
     [[Libtool.download]]
-    sha256 = "e2623d521054c9c22c803a679420d0acc60a7fc4c02fd62342002846bab540dc"
-    url = "https://github.com/JuliaBinaryWrappers/Libtool_jll.jl/releases/download/Libtool-v2.4.7+3/Libtool.v2.4.7.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "789c00676904b68e4a86dca6130b3af38485adb8222b16148364d2260df7a2bc"
+    url = "https://github.com/JuliaBinaryWrappers/Libtool_jll.jl/releases/download/Libtool-v2.4.7+4/Libtool.v2.4.7.armv6l-linux-gnueabihf.tar.gz"
 [[Libtool]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "1d8329e2062e3fa58ae7b45d24ddc0e289fe3dfa"
+git-tree-sha1 = "41f46a37099e572e550441c0afc5bab737338ed5"
 libc = "musl"
 os = "linux"
 
     [[Libtool.download]]
-    sha256 = "eb8f4e95d711816c8b4a3753bb76e87ba92695f72ff9800780e7946e8b7563eb"
-    url = "https://github.com/JuliaBinaryWrappers/Libtool_jll.jl/releases/download/Libtool-v2.4.7+3/Libtool.v2.4.7.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "0005145de68a59361742be4112207cc314ba7f1f0981899a5bb0d84c11e27334"
+    url = "https://github.com/JuliaBinaryWrappers/Libtool_jll.jl/releases/download/Libtool-v2.4.7+4/Libtool.v2.4.7.armv6l-linux-musleabihf.tar.gz"
 [[Libtool]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "ca06bab452f9e9890aa071336796f092aa7bb31b"
+git-tree-sha1 = "4bee47df68693eea8b21c46cb0c428728dc7d040"
 libc = "glibc"
 os = "linux"
 
     [[Libtool.download]]
-    sha256 = "43745c9143e852e57c25232df5715de4b62f894d254f6b7281e79d812661c61b"
-    url = "https://github.com/JuliaBinaryWrappers/Libtool_jll.jl/releases/download/Libtool-v2.4.7+3/Libtool.v2.4.7.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "e13f8eb4b4e383c146d806b7ae02c783e22cf7cd40a84cc64c527da822cf28c5"
+    url = "https://github.com/JuliaBinaryWrappers/Libtool_jll.jl/releases/download/Libtool-v2.4.7+4/Libtool.v2.4.7.armv7l-linux-gnueabihf.tar.gz"
 [[Libtool]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "eef21e8baff81297f18841aa86f27636534aca40"
+git-tree-sha1 = "9ad94c05363f224f40c5904dd2f14932d876aeee"
 libc = "musl"
 os = "linux"
 
     [[Libtool.download]]
-    sha256 = "28525ab00e6766be45586f1d46e35afa6d3df41f1b1f9d4e6e7885a90195be87"
-    url = "https://github.com/JuliaBinaryWrappers/Libtool_jll.jl/releases/download/Libtool-v2.4.7+3/Libtool.v2.4.7.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "1e6eb47018777e3897770924767ca9da9bfbae5dbf631e000b94dcd1eec8d36a"
+    url = "https://github.com/JuliaBinaryWrappers/Libtool_jll.jl/releases/download/Libtool-v2.4.7+4/Libtool.v2.4.7.armv7l-linux-musleabihf.tar.gz"
 [[Libtool]]
 arch = "i686"
-git-tree-sha1 = "ee53d02f4eab29a2a875949c4be8f7703b4278d1"
+git-tree-sha1 = "fd6161395f68695e84d0fe7bec52b4e317a21bea"
 libc = "glibc"
 os = "linux"
 
     [[Libtool.download]]
-    sha256 = "6d1eff695ad9107365174cadf8c0f40a3277bf5890f3fa69180cbc3496580457"
-    url = "https://github.com/JuliaBinaryWrappers/Libtool_jll.jl/releases/download/Libtool-v2.4.7+3/Libtool.v2.4.7.i686-linux-gnu.tar.gz"
+    sha256 = "5301a6cf697e74cf7e8291403738bc0ce65a697cfd35501964eab38f365f5de8"
+    url = "https://github.com/JuliaBinaryWrappers/Libtool_jll.jl/releases/download/Libtool-v2.4.7+4/Libtool.v2.4.7.i686-linux-gnu.tar.gz"
 [[Libtool]]
 arch = "i686"
-git-tree-sha1 = "c9fa5a3c1c6826ec09380016b479d7fbb4a1cd62"
+git-tree-sha1 = "89766443411d945ed696be0f77d1d611eac2c812"
 libc = "musl"
 os = "linux"
 
     [[Libtool.download]]
-    sha256 = "d850ea70d395a5d9e25c040ed4d9e6bdf27a126b553fd7796401ec6255c9cabe"
-    url = "https://github.com/JuliaBinaryWrappers/Libtool_jll.jl/releases/download/Libtool-v2.4.7+3/Libtool.v2.4.7.i686-linux-musl.tar.gz"
+    sha256 = "fce5a9040cb3249fc1e49609a8be2124b7220b055a909071e7d62a7e4bea8134"
+    url = "https://github.com/JuliaBinaryWrappers/Libtool_jll.jl/releases/download/Libtool-v2.4.7+4/Libtool.v2.4.7.i686-linux-musl.tar.gz"
 [[Libtool]]
 arch = "i686"
-git-tree-sha1 = "0c1c565bde9ff5f691b6b4cf033895fc3db0e22e"
+git-tree-sha1 = "6058debaade3306100a771b03b05f39d53de87b2"
 os = "windows"
 
     [[Libtool.download]]
-    sha256 = "75fc51c85720ad7b85b3a567740bea0aa1c7b36094ddb0a4801451f68b8074b8"
-    url = "https://github.com/JuliaBinaryWrappers/Libtool_jll.jl/releases/download/Libtool-v2.4.7+3/Libtool.v2.4.7.i686-w64-mingw32.tar.gz"
+    sha256 = "5c54587f4cacce1de9401bd1b60e7f479cf2ec2204d519877d152f83d0fdd113"
+    url = "https://github.com/JuliaBinaryWrappers/Libtool_jll.jl/releases/download/Libtool-v2.4.7+4/Libtool.v2.4.7.i686-w64-mingw32.tar.gz"
 [[Libtool]]
 arch = "powerpc64le"
-git-tree-sha1 = "ad3cc437b4cc58c13703d9ed10a669dc2a1927aa"
+git-tree-sha1 = "306313c57d0945ad0da441f89efed6e335123db6"
 libc = "glibc"
 os = "linux"
 
     [[Libtool.download]]
-    sha256 = "ddeb350652c0681422270720c101c679c9b997209dc8ee1086387c1dfba987f5"
-    url = "https://github.com/JuliaBinaryWrappers/Libtool_jll.jl/releases/download/Libtool-v2.4.7+3/Libtool.v2.4.7.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "23b78ab5640d737b0d9bdc296dd00070f86d467ecad2824572d054650ba6f35d"
+    url = "https://github.com/JuliaBinaryWrappers/Libtool_jll.jl/releases/download/Libtool-v2.4.7+4/Libtool.v2.4.7.powerpc64le-linux-gnu.tar.gz"
 [[Libtool]]
 arch = "x86_64"
-git-tree-sha1 = "893cafdaeec5957faf9b326cb72184b813ceb9b5"
+git-tree-sha1 = "143149d1d8410ded9bf8c4027e8dd9c59e000fd7"
 os = "macos"
 
     [[Libtool.download]]
-    sha256 = "a8c394c236b0f20c3032a030bfb0ea7d250f1b993dd09c29f1527d0b71046c94"
-    url = "https://github.com/JuliaBinaryWrappers/Libtool_jll.jl/releases/download/Libtool-v2.4.7+3/Libtool.v2.4.7.x86_64-apple-darwin.tar.gz"
+    sha256 = "6b2ded73b661c419de11ee3a10d490b5bf696aef778e4abd3eb0219572d8fbd0"
+    url = "https://github.com/JuliaBinaryWrappers/Libtool_jll.jl/releases/download/Libtool-v2.4.7+4/Libtool.v2.4.7.x86_64-apple-darwin.tar.gz"
 [[Libtool]]
 arch = "x86_64"
-git-tree-sha1 = "6aa884e1d28137e763e63d9bf23d5101c1a7e7a0"
+git-tree-sha1 = "f84f9fc5322a791ec88feb35ee78a8857ffe3199"
 libc = "glibc"
 os = "linux"
 
     [[Libtool.download]]
-    sha256 = "1c5b5635a1ecda0e5cf8a00f4ca63e9f80086f624173fa3e0e92068eae7d06f9"
-    url = "https://github.com/JuliaBinaryWrappers/Libtool_jll.jl/releases/download/Libtool-v2.4.7+3/Libtool.v2.4.7.x86_64-linux-gnu.tar.gz"
+    sha256 = "66ab4ca91b413c64eee943a5c2d166b5c5616706aa281b17b8bb6c18478fd9be"
+    url = "https://github.com/JuliaBinaryWrappers/Libtool_jll.jl/releases/download/Libtool-v2.4.7+4/Libtool.v2.4.7.x86_64-linux-gnu.tar.gz"
 [[Libtool]]
 arch = "x86_64"
-git-tree-sha1 = "6f7457ed715706bcacf214e3bf672bdfeefdd0ff"
+git-tree-sha1 = "aa02e20f18a07c9135187606b7fe0c3464123bd3"
 libc = "musl"
 os = "linux"
 
     [[Libtool.download]]
-    sha256 = "71ce45bf07f9d795e105af136a0c952331272454a9a85423f8a8ca9a74d6793a"
-    url = "https://github.com/JuliaBinaryWrappers/Libtool_jll.jl/releases/download/Libtool-v2.4.7+3/Libtool.v2.4.7.x86_64-linux-musl.tar.gz"
+    sha256 = "9a31024123277a9d2b172068189b5446dfbef1c6c9f6a80218fdf4744749c921"
+    url = "https://github.com/JuliaBinaryWrappers/Libtool_jll.jl/releases/download/Libtool-v2.4.7+4/Libtool.v2.4.7.x86_64-linux-musl.tar.gz"
 [[Libtool]]
 arch = "x86_64"
-git-tree-sha1 = "ded868375fb24bece1257f41d0b7e1f19de86ccd"
+git-tree-sha1 = "001058d87db39eb00a4e2c4dd7caa4794662bafa"
 os = "freebsd"
 
     [[Libtool.download]]
-    sha256 = "949eaf948ac042b5290f40521254737b7e2f6cb50a6a7bbb2f97b33e448d7f60"
-    url = "https://github.com/JuliaBinaryWrappers/Libtool_jll.jl/releases/download/Libtool-v2.4.7+3/Libtool.v2.4.7.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "c2ef725680098edd1c26bb4d816275481f2d20a9cdcc99bc3eb24ad4efdb9f03"
+    url = "https://github.com/JuliaBinaryWrappers/Libtool_jll.jl/releases/download/Libtool-v2.4.7+4/Libtool.v2.4.7.x86_64-unknown-freebsd.tar.gz"
 [[Libtool]]
 arch = "x86_64"
-git-tree-sha1 = "c892947d656883365c6ba3e0af40e107ebe2989d"
+git-tree-sha1 = "a9f785b03b8040c6a3cd0dcc2b5d5260a345db2a"
 os = "windows"
 
     [[Libtool.download]]
-    sha256 = "b794df3eac3800de8fc52b952414ab5bd7b3d2eaf6231e80f020a114b649ab68"
-    url = "https://github.com/JuliaBinaryWrappers/Libtool_jll.jl/releases/download/Libtool-v2.4.7+3/Libtool.v2.4.7.x86_64-w64-mingw32.tar.gz"
+    sha256 = "86e2e3627125f344ed68b4b5c53bd346f27f7430ecb8016c4da9718bb81cdb7a"
+    url = "https://github.com/JuliaBinaryWrappers/Libtool_jll.jl/releases/download/Libtool-v2.4.7+4/Libtool.v2.4.7.x86_64-w64-mingw32.tar.gz"
